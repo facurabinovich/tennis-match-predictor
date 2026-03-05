@@ -1,0 +1,39 @@
+# Credentials
+.env
+
+# Config (credentials via dotenv)
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Database backups
+*.sql
+*.backup
+
+# Models (too large for git)
+models/
+
+# Migration artifacts
+db_migration/
+
+# Raw data files
+tml-data/
+
+# OS files
+.DS_Store
+Thumbs.db
+.\\venv\\
+.\venv\
+.\venv\
