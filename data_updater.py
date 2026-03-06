@@ -66,7 +66,7 @@ import pandas as pd
 import numpy as np
 from io import StringIO
 from datetime import datetime, date, timedelta
-from config import get_db_connection
+from config_local import get_db_connection
 
 # ── CONFIG ───────────────────────────────────────────────────
 TML_API_INDEX = "https://stats.tennismylife.org/api/data-files"

@@ -2,10 +2,11 @@
 
 > End-to-end machine learning system for ATP tennis match prediction — from raw data ingestion and feature engineering through model training, MySQL storage, and a live Streamlit application.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://facustennispredictor.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![LightGBM](https://img.shields.io/badge/LightGBM-FINAL%20MODEL-2ecc71?style=flat)](https://lightgbm.readthedocs.io)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql&logoColor=white)](https://mysql.com)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io)
+
 
 ---
 
@@ -20,6 +21,8 @@ This project builds a production-ready ATP tennis match prediction system traine
 - Val-test gap of 0.67% — excellent temporal stability
 
 The system includes a live data pipeline that pulls current ATP matches daily and a five-page Streamlit app for match prediction and player/season analytics.
+
+🚀 **[Live Demo → facusmatchpredictor.streamlit.app](https://facustennispredictor.streamlit.app)**
 
 ---
 

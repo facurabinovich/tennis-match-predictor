@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import pickle
 from datetime import datetime, timedelta
-from config import get_db_connection
+from config_local import get_db_connection
 
 print("="*60)
 print("INITIAL DATA LOAD - TML DATASET")

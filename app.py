@@ -9,7 +9,7 @@ import numpy as np
 import plotly.graph_objects as go
 import plotly.express as px
 from datetime import datetime
-from config import get_db_connection
+from config_local import get_db_connection
 
 # ============================================================
 # PAGE CONFIG — must be first Streamlit call
