@@ -26,6 +26,25 @@ The system includes a live data pipeline that pulls current ATP matches daily an
 
 ---
 
+## Screenshots
+
+### 🎾 Match Prediction
+
+**Player Selection**
+![Player Selection](screenshots/player_selection.png)
+
+**Pre-match Analysis — Rankings, Elo & Season Record**
+![Player Comparison](screenshots/player_comparison.png)
+
+**Pre-match Analysis — Recent Form & Surface Stats**
+![Recent Form](screenshots/more_comparison.png)
+
+**Prediction Result**
+![Prediction](screenshots/prediction.png)
+
+### 📅 Season Dashboard
+![Season Dashboard](screenshots/season_dashboard.png)
+
 ## Project Structure
 
 ```
