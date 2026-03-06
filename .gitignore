@@ -2,7 +2,7 @@
 .env
 
 # Config (credentials via dotenv)
-config.py
+config_local.py
 
 # Python
 __pycache__/
